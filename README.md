@@ -151,5 +151,14 @@ No restrictions apply when sending unlocked Toncoins, even if we send to whiteli
 
 `npx blueprint create ContractName` or `yarn blueprint create ContractName`
 
+## Security
+
+The vesting contract has been created by TON Core team and audited by security companies:
+
+- Zellic: [Audit Report](https://github.com/ton-blockchain/vesting-contract/blob/main/audits/Vesting%20Wallet%20-%20Zellic%20Audit%20Report%20-%20final.pdf)
+- CertiK: [Audit Report](https://github.com/ton-blockchain/vesting-contract/blob/main/audits/Vesting%20REP-final-20220805T101405Z.pdf)
+
+Feel free to review these reports for a detailed understanding of the contract's security measures.
+
 # License
 MIT
